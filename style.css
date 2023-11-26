@@ -1,0 +1,35 @@
+body
+{
+  color: rgb(7, 11, 232);
+  background: #09f905;
+  font-family: 'Ma Shan Zheng', cursive;
+  font-size: 50px;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(8, 27, 197);
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: rgb(188, 24, 24);
+  font-size: 60px;
+}
+.emotion_name
+{
+  font-size: 60px;
+}
+.emoji
+{
+  font-size:55px;
+}
+
+button{
+font-size: 45px;
+width: 150px;
+}
